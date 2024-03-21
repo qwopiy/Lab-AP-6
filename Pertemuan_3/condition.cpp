@@ -26,5 +26,41 @@ main() {
     //     cout << "nilai pas-pasan" << endl
     // }
     
-    //switch-ccase
+    // //switch-case
+    // switch (a)
+    // {
+    // case 90 ... 100:
+    //     cout << "A";
+    //     break;
+    
+    // case 80 ... 89;
+    //     cout << "B";
+    //     break;
+
+    // case 70 ... 79;
+    //     cout << "C";
+    //     break;
+
+    // case 60 ... 69;
+    //     cout << "D";
+    //     break;
+
+    // case 0 ... 59;
+    //     cout << "E";
+    //     break;
+
+    // default:
+    //     cout << "tidak Valid" << endl;
+    //     break;
+    // }
+
+    //Ternary operator
+    if (a < 0) {
+        cout << "Negatif" << endl;
+    } else {
+        cout << "Positif" << endl;
+    }
+
+    string tipe = (a > 0) ? "Positif" : "Negatif";
+    cout << tipe << endl;
 }
