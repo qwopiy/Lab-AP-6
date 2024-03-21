@@ -1,0 +1,1 @@
+    tinggiPrisma = sqrt((pow(tinggiAlas, 2)) -(1/4 * pow(alas, 2)));
