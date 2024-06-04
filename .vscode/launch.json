@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Lenovo/Code/Cplusplus/Lab-AP-6/Pertemuan_3",
-      "program": "c:/Users/Lenovo/Code/Cplusplus/Lab-AP-6/Pertemuan_3/build/Debug/outDebug",
+      "cwd": "c:/Users/Lenovo/Code/Cplusplus/Lab-AP-6/UTSTesting",
+      "program": "c:/Users/Lenovo/Code/Cplusplus/Lab-AP-6/UTSTesting/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
